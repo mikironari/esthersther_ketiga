@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/estherketiga/static/css/main.ca7de839.css",
+    "main.js": "/estherketiga/static/js/main.98af5a4d.js",
+    "static/js/787.e323a353.chunk.js": "/estherketiga/static/js/787.e323a353.chunk.js",
+    "index.html": "/estherketiga/index.html",
+    "main.ca7de839.css.map": "/estherketiga/static/css/main.ca7de839.css.map",
+    "main.98af5a4d.js.map": "/estherketiga/static/js/main.98af5a4d.js.map",
+    "787.e323a353.chunk.js.map": "/estherketiga/static/js/787.e323a353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca7de839.css",
+    "static/js/main.98af5a4d.js"
+  ]
+}
